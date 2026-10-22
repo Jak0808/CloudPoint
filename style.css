@@ -175,6 +175,7 @@ section h2 {
 
 #contact {
     text-align: center;
+    padding-bottom: 80px;
 }
 
 footer {
@@ -182,6 +183,11 @@ footer {
     text-align: center;
     padding: 25px;
     border-top: 1px solid #e5e7eb;
+}
+.contact-text {
+    max-width: 700px;
+    margin: 0 auto 20px auto;
+    font-size: 1.1rem;
 }
 
 @media (max-width:768px) {
@@ -196,3 +202,4 @@ footer {
     }
 
 }
+
